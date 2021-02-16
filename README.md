@@ -1,6 +1,6 @@
 # Hello world ! 👋
 
-I'm ambitious and patient. Working with many people on different projects helped me become a great teammate. I maintain good relations with colleagues and usually I'm optimistic or in worst case realistic. I like to help others but not afraid to ask for help either. 
+My name is Gabi , I'm ambitious and patient. Working with many people on different projects helped me become a great teammate. I maintain good relations with colleagues and usually I'm optimistic or in worst case realistic. I like to help others but not afraid to ask for help either. 
 
 - 🏢 I'm currently a Fullstack Web Developer
 - 🚀 Favorite languages
