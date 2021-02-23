@@ -30,6 +30,7 @@
    <br />
    <img src="https://img.shields.io/badge/Trello%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Azure Boards%20-%23F7DF1E.svg?&style=for-the-badge&color=0066ff" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Agile%20-%23F7DF1E.svg?&style=for-the-badge&color=0075BF" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
