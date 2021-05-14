@@ -57,8 +57,8 @@
    Looking to learn:
    
    <img src="https://img.shields.io/badge/NodeJs%20-%23F7DF1E.svg?&style=for-the-badge&color=009933" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Golang%20-%23F7DF1E.svg?&style=for-the-badge&color=00ccff" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Firebase%20-%23F7DF1E.svg?&style=for-the-badge&color=ff6600" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=00ccff" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Testing%20-%23F7DF1E.svg?&style=for-the-badge&color=ff6600" />&nbsp;&nbsp;
 </p> 
 
 
