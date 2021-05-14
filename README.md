@@ -70,8 +70,8 @@
 
 ### ✔  **Domain :** Full-Stack Web Development 💻
 ### ✔  **Main Skills :** Javascript, ReactJs, Python, Java, Spring, PostgreSQL, Flask
-### ✔  **Currently Learning :** Spring Cloud
-### ✔  **Hobbies :**  Cryptocurrency Analysis 📈, Workout 💪
+### ✔  **Currently Learning :** Blockchain Development
+### ✔  **Hobbies :**  Cryptocurrency Analysis 📈, Ecommerce, Blockchain Development, Machine Learning 💻
 ### ✔  **Interests :** SpaceX, Machine Learning, Electric Cars and Robotics
 
 <hr>
