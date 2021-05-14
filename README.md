@@ -40,6 +40,8 @@
    <img src="https://img.shields.io/badge/JPA%20-%23F7DF1E.svg?&style=for-the-badge&color=4d4dff" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/ORM%20-%23F7DF1E.svg?&style=for-the-badge&color=c44dff" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/H2%20-%23F7DF1E.svg?&style=for-the-badge&color=ff9966" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Firebase%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
+
    <br />
    <img src="https://img.shields.io/badge/Microservices%20-%23F7DF1E.svg?&style=for-the-badge&color=0039e6" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Eureka Server%20-%23F7DF1E.svg?&style=for-the-badge&color=0000cc" />&nbsp;&nbsp;
