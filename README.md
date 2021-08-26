@@ -56,11 +56,9 @@
    
    <br/>
    
-   Looking to learn:
+   Currently learning:
    
-   <img src="https://img.shields.io/badge/NodeJs%20-%23F7DF1E.svg?&style=for-the-badge&color=009933" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=00ccff" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Testing%20-%23F7DF1E.svg?&style=for-the-badge&color=ff6600" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?&style=for-the-badge&color=00ccff" />&nbsp;&nbsp;
 </p> 
 
 
@@ -70,9 +68,8 @@
 
 ### ✔  **Domain :** Full-Stack Web Development 💻
 ### ✔  **Main Skills :** Javascript, ReactJs, Python, Java, Spring, PostgreSQL, Flask
-### ✔  **Currently Learning :** Blockchain Development
-### ✔  **Hobbies :**  Cryptocurrency Analysis 📈, Ecommerce, Blockchain Development, Machine Learning 💻
-### ✔  **Interests :** SpaceX, Machine Learning, Electric Cars and Robotics
+### ✔  **Hobbies :**  Cryptocurrency Analysis 📈, Ecommerce, Machine Learning 💻
+### ✔  **Interests :** Self Development, Machine Learning, EV and Robotics
 
 <hr>
 
