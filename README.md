@@ -58,7 +58,7 @@
    
    Currently learning:
    
-   <img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?&style=for-the-badge&color=00ccff" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
 </p> 
 
 
