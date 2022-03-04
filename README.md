@@ -61,6 +61,8 @@
    Currently learning:
    
    <img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/SOLIDITY%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/SMART CONTRACTS%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
 </p> 
 
 
