@@ -1,5 +1,5 @@
 <h1>Hello, I'm Gabi 👋 🇷🇴 </h1>
-<h2>👨‍💻Full Stack Web Developer</h2>
+<h2>👨‍💻 Blockchain Developer</h2>
 
 <hr>
 
@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Flask%20-%23F7DF1E.svg?&style=for-the-badge&color=269900" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring Boot%20-%23F7DF1E.svg?&style=for-the-badge&color=39e600" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring Security%20-%23F7DF1E.svg?&style=for-the-badge&color=53ff1a" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Solidity%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1B" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Web3%20-%23F7DF1E.svg?&style=for-the-badge&color=ff8c1a" />&nbsp;&nbsp;
    <br />
    
    <br />
@@ -66,10 +68,9 @@
 
 ### About me 📌
 
-### ✔  **Domain :** Full-Stack Web Development 💻
-### ✔  **Main Skills :** Javascript, ReactJs, Python, Java, Spring, PostgreSQL, Flask
-### ✔  **Hobbies :**  Cryptocurrency Analysis 📈, Ecommerce, Machine Learning 💻
-### ✔  **Interests :** Self Development, Machine Learning, EV and Robotics
+### ✔  **Domain :** Blockchain Development (Smart contracts) 💻
+### ✔  **Main Skills :** Javascript, ReactJs, Python, Java, Spring, PostgreSQL, Flask, Solidity, Web3, Ether.js, Typescript, DEFI
+### ✔  **Hobbies :**  Cryptocurrency, Self Development
 
 <hr>
 
