@@ -1,5 +1,5 @@
 <h1>Hello, I'm Gabi 👋 🇷🇴 </h1>
-<h2>👨‍💻 Blockchain / Software / Fullstack Web Developer</h2>
+<h2>👨‍💻 Fullstack Blockchain and Software Developer </h2>
 
 <hr>
 
