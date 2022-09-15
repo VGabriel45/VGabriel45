@@ -58,7 +58,7 @@
    
    <br/>
    
-   Currently learning:
+   Currently learning and working with:
    
    <img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/SOLIDITY%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
