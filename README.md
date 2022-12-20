@@ -87,6 +87,4 @@
 ```
 Turning challenges into opportunities
 ```
-[![VGabriel45's github stats](https://github-readme-stats.vercel.app/api?username=VGabriel45&theme=dark&show_icons=true)](https://github.com/VGabriel45)
 
-![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
