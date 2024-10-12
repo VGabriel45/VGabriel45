@@ -35,10 +35,3 @@ I believe in the power of knowledge sharing. Check out my blog posts and tutoria
 - 🔗 LinkedIn: [https://www.linkedin.com/in/gabi-vasile/]
 - 🐦 Twitter: [https://x.com/GabiDev98]
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VGabriel45&show_icons=true&theme=radical)
-
----
-
-⭐️ From [VGabriel45](https://github.com/VGabriel45)
